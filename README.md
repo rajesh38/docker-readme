@@ -18,11 +18,13 @@ executable
 to your terminal.
 
 3. List docker images:
+
 ```
 docker images
 ```
 
 4. List docker containers
+
 ```
 docker ps -a
 ```
